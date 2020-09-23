@@ -1,0 +1,171 @@
+Section 1 (Declarations):
+Global Declarations
+Other Declarations
+
+Section 2:
+FileSave
+FileOpen
+ListSave
+ListOpen
+
+Section 3:
+MakeDir
+DeleteDir
+DelFilesInDir
+
+Section 4:
+MoveFile
+CopyFile
+DeleteFile
+ExecuteFile
+
+Section 5:
+Encrypt
+Decrypt
+BitEncrypt
+BitDecrypt
+SuperEE (Private)
+
+Section 6:
+DisableCtrlAltDel
+EnableCtrlAltDel
+HideCtrlAltDel
+ShowCtrlAltDel
+
+Section 7:
+OpenCD
+CloseCD
+PrintBlankPage
+PrintText
+PrintPage (Private)
+PrintNewPage (Private)
+PrintEndOfLastPage (Private)
+
+Section 8:
+MakeStartupReg
+AddToStartupDir
+MakeRegFile (Private)
+
+Section 9:
+Ontop
+NotOntop
+InvisibleForm
+HoleInForm
+
+Section 10:
+ClipboardCopy
+ClipboardGet
+ClearClipboard
+
+Section 11:
+Ping
+ConvertIPAddressToLong (Private)
+
+Section 12:
+Code1
+Code2
+Decode1
+Decode2
+ReplaceC (Private)
+
+Section 13:
+Add
+Subtract
+Divide
+Multiply
+ToPower
+ToRoot
+FractionToDecimal
+DecimalToPercentage
+PercentageToDecimal
+AreaOfCircle
+Circumference
+AreaOfSquare
+PerimeterOfSquare
+PerimeterOfRectangle
+AreaOfRectangle
+AreaOfTriangle
+PerimeterOfTriangle
+PerimeterOf4SidedPolygon
+VolumeOfCube
+VolumeOfPrism
+VolumeOfSphere
+VolumeOfPyramid
+VolumeOfCone
+VolumeOfCylinder
+
+Section 14:
+FadeThreeColorHTML
+FadeTwoColorHTML
+FadeThreeColorYahoo
+FadeTwoColorYahoo
+FadeThreeColorANSI
+FadeTwoColorANSI
+
+Section 15:
+RestartWindows
+ExitWindows
+RebootComputer
+
+Section 16:
+AltCaps
+BackwardsText
+EliteType
+SpaceCharacters
+DoubleCharacters
+EchoText
+Scramble
+TwistText
+
+Section 17:
+GetAppVersion
+GetAppName
+GetAppPath
+GetAppDescription
+GetAppCopyRight
+GetAppComment
+GetAppTitle
+GetAppCompanyName
+GetAppProductName
+
+Section 18:
+MoveMouse
+MousePosition
+LeftClick
+LeftDown
+LeftUp
+MiddleClick
+MiddleDown
+MiddleUp
+RightClick
+RightDown
+RightUp
+
+Section 19:
+DrawSquareOnForm
+DrawLineOnForm
+DrawSquareOnPictureBox
+DrawLineOnPictureBox
+
+Section 20:
+ConvertRGBToHex
+RGBToHex (Private)
+ConvertHexToRGB
+HexToRGB (Private)
+WebPage
+RandomNumber
+MakeInputBox
+LengthOfString
+FindAsciiOfChr
+MakeChrFromAscii
+MakeRndChrString
+DoSendKeys
+GetTextFromListBox
+GetTextFromComboBox
+PasswordLock
+ChangeDefaultDir
+ChangeDefaultDrive
+MakeRegistrySetting
+
+
+# of Subs:  127
